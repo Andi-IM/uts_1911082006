@@ -138,7 +138,6 @@ public class ukt_view extends javax.swing.JFrame {
         setBounds(new java.awt.Rectangle(0, 0, 0, 0));
         setName("Uang Kuliah App"); // NOI18N
         setPreferredSize(new java.awt.Dimension(800, 600));
-        setResizable(false);
         setSize(new java.awt.Dimension(15, 15));
 
         panelPembayaran.setBackground(new java.awt.Color(170, 170, 170));
